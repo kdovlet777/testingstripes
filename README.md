@@ -1,4 +1,4 @@
-<h1> Django Project - Setup Instructions </h1>
+<h1> Django Stripe Project - Setup Instructions </h1>
 This repository contains a Django project that can be used as a starting point for building web applications. This README file provides instructions for setting up and running the project on your local machine.
 
 <h3> Requirements</h3>
